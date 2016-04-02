@@ -1,0 +1,23 @@
+.section .reveal .state-background {
+    background: url("./Montgomery County Crime Explorer-figure/AllCrime2.png");
+    background-position: center 90%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 60% 60%;
+    background-color: #aba8a8;
+}
+
+.small-code pre code {
+  font-size: 1em;
+}
+
+.reveal section img {
+	box-shadow: none;
+	background: transparent;
+	align: center;
+	bottom: 10%;
+}
+
+.exclaim .state-background {
+	background: #f1f0f0;
+}
