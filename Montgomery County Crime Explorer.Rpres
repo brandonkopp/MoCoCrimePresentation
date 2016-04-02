@@ -31,7 +31,7 @@ Getting The Data
 class: small-code
 type: exclaim
 
-The crime reports are downloaded through the [dataMontgomery Crime API](https://data.montgomerycountymd.gov/Public-Safety/Crime/icn6-v9z3) which offers a lot of resources for to help developers make use of the data (see also [Socrata](https://www.socrata.com/) ).  
+The crime reports are downloaded through the [dataMontgomery Crime API](https://data.montgomerycountymd.gov/Public-Safety/Crime/icn6-v9z3) which offers a lot of resources to help developers make use of the data (see also [Socrata](https://www.socrata.com/) ).  
 
 The crime reports are updated daily so users get up-to-date information. Reports in the application refresh when the user enters the application and whenever they change the crime type or date range parameters.
 
